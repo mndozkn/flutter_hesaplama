@@ -1,6 +1,8 @@
-# hesaplamalar
+# hesaplamalar // 23.12.2023 //
 
 A new Flutter project.
+
+All files in lib.
 
 ## Getting Started
 
